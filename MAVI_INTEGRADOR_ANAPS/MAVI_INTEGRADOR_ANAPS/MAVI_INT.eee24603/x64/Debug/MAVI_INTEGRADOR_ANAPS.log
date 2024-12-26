@@ -1,0 +1,95 @@
+﻿  Common.cpp
+  Data.cpp
+  Game.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Player.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(5,52): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,55): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,55): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,55): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,55): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,55): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,43): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,43): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,43): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,43): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(202,43): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,57): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,57): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,57): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,57): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,45): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,45): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,45): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,45): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(206,45): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,49): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,49): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,49): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,49): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,49): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,39): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,39): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,39): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,39): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Game.cpp(221,39): warning C4244:         ]
+  Main.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Player.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Main.cpp")
+  
+  Objective.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,41): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,41): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,41): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(28,41): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         and
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:             T=float
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,51): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:             T=int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         and
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:             T=float
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Objective.cpp(43,39): warning C4244:         ]
+  ObjectiveManager.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\ObjectiveManager.cpp(7,55): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\ObjectiveManager.cpp(9,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Player.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Player.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Player.cpp")
+  
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Player.cpp(15,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\Player.cpp(15,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Position.cpp
+  TitleScreen.cpp
+  UIManager.cpp
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(8,31): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(12,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(16,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,39): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,39): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,39): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,39): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(31,39): warning C4244:         ]
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,42): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,42): warning C4244:         with
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,42): warning C4244:         [
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,42): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\UIManager.cpp(35,42): warning C4244:         ]
+  Generando código...
+  MAVI_INTEGRADOR_ANAPS.vcxproj -> C:\Users\anaps\source\repos\MAVI_INTEGRADOR_ANAPS\MAVI_INTEGRADOR_ANAPS\x64\Debug\MAVI_INTEGRADOR_ANAPS.exe
